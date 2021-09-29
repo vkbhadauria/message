@@ -27,7 +27,10 @@
     * email:
     * password:
 
-3. Use django restframework UI in browser to call API 
+3. Run test case
+    ` python manage.py test`
+    
+4. Use django restframework UI in browser to call API 
 
     * [User Signup API](http://localhost:8000/signup)
 
