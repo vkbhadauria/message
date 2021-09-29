@@ -15,6 +15,9 @@
                 * https://www.python.org/ftp/python/3.7.5/python-3.7.5-macosx10.9.pkg
 
     * Create a virtual env with python 3.7.5
+      `python -m venv env'
+    * activate env
+       ` source env/bin/activate`
     * execute `pip install -r requirements.txt` to setup dependencies
     * Install Sqlite3
 
